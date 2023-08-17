@@ -5,4 +5,4 @@
 <img width="1258" alt="Screenshot 2023-08-17 at 21 49 47" src="https://github.com/lucatron/loginPage/assets/5825516/8cb97296-df21-4b98-9c71-b5ba66b48b75">
 
 
-##npm start to run the project
+## npm start to run the project
