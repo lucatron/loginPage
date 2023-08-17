@@ -1,8 +1,11 @@
 # Login page created in React 
  
-<img width="1037" alt="Screenshot 2023-08-17 at 21 49 40" src="https://github.com/lucatron/loginPage/assets/5825516/ed60b211-ab1f-4912-9505-5b33ac19ce4c">
+ 
+<img width="720" alt="Screenshot 2023-08-17 at 22 50 46" src="https://github.com/lucatron/loginPage/assets/5825516/c42bfde8-caa4-4188-b9de-83d3f10f69d2">
 
-<img width="1258" alt="Screenshot 2023-08-17 at 21 49 47" src="https://github.com/lucatron/loginPage/assets/5825516/8cb97296-df21-4b98-9c71-b5ba66b48b75">
 
 
-## npm start to run the project
+<img width="1315" alt="Screenshot 2023-08-17 at 22 50 53" src="https://github.com/lucatron/loginPage/assets/5825516/a07e4dcb-3463-4517-89a5-af6bdf611403">
+
+
+### npm start to run the project
